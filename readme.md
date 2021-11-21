@@ -28,6 +28,7 @@ _Doing the work so you don't have to 😘_
 ## CONTRIBUTING LOADOUTS
 * Any help is greatly appreciated.  Before any loadout is added to this repo it should meet our re-usability standards:
   * Loadouts should be complete for all the unit types found in the Base loadout folder.
+  * Loadout names should be compatible with the default CA2 platoon structure (rifleman should be named 'rif' etc).
   * Loadouts should be usable to some extent at both day and night.
   * Loadouts should consider the era and technological access of their faction, and stay consistent with these as much as possible within gameplay constraints.
   * Loadouts should generally have between 8-10 rifle mags for general infantry and 4-6 for support roles.
